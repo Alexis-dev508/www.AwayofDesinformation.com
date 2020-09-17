@@ -69,3 +69,20 @@ html{
     border-top-left-radius: 1.7rem;
     height: 14vh;
 }
+.main-footer{
+    margin-top: 2rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around ;
+}
+.main-footer__ul--item{
+    display: inline-block;
+    padding: 1rem;
+   
+}
+.main-footer__ul--item img{
+    display: inline-block;  
+    width: 12vw;
+    height: 8vh;
+}
